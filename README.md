@@ -1,4 +1,4 @@
-<h1>Misaka Network</h1>
+<p style="font-size: 36px">Misaka Network</p>
 <h2>Taks Overview</h2>
 <p>The project is a colaboration with a <a href="https://github.com/milos-mkv"> friend</a> who had created a blockchain mining and
 wallet application and wanted to represent his work in a way that would honor one of his favorite anime character.</p>
