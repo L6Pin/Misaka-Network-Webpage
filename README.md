@@ -3,14 +3,14 @@
 <p>The client with whom I worked with had created a blockchain mining and
 wallet application and desired to represent his work in a way that would honor one of his favorite anime character.</p>
 <br/>
-<img src="md_image/1.png" style="border: 3px solid red;">
+<img src="md_image/1.png">
 <p style="text-align: center"><i>Landing Page</i></p>
 <h2>Design</h2>
 <p>The design is inspired by the current trend of minimalism. The color white was used (by default) to fill out empty space with the main colors being:</p>
 <ul>
-    <li>Red (#FE1C01): ‎ ‎ ‎<div style="display: inline-block; width: 10px; height: 10px; background: #FE1C01;"></div></li>
-    <li>Orange (#FF5F01): ‎ ‎ ‎‎<div style="display: inline-block; width: 10px; height: 10px; background: #FF5F01;"></div></li>
-    <li>Gray (#333): ‎ ‎ ‎<div style="display: inline-block; width: 10px; height: 10px; background: #333;"></div></li>
+    <li>Red (#FE1C01)</li>
+    <li>Orange (#FF5F01)</li>
+    <li>Gray (#333)</li>
 </ul>
 <p>The images that were used in this project were taken from the internet and modifed in a way that they do not infringe on copyright laws.</p>
 <h2>Technologies</h2>
