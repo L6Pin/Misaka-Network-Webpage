@@ -1,7 +1,7 @@
 <h1>Misaka Network</h1>
 <h2>Taks Overview</h2>
-<p>The client with whom I worked with had created a blockchain mining and
-wallet application and desired to represent his work in a way that would honor one of his favorite anime character.</p>
+<p>The project is a colaboration with a <a href="https://github.com/milos-mkv"> friend</a> who had created a blockchain mining and
+wallet application and wanted to represent his work in a way that would honor one of his favorite anime character.</p>
 <br/>
 <img src="md_image/1.png">
 <h2>Design</h2>
@@ -11,7 +11,7 @@ wallet application and desired to represent his work in a way that would honor o
     <li>Orange (#FF5F01)</li>
     <li>Gray (#333)</li>
 </ul>
-<p>The images that were used in this project were taken from the internet and modifed in a way that they do not infringe on copyright laws.</p>
+<p>The Figma design can be found <a href="https://www.figma.com/file/MDTfMnQKJU9wbR4HseIx5a/Misaka-Network?node-id=0%3A1">here</a>.</p>
 <h2>Technologies</h2>
 <p>For this project the following tecnologies were used:</p>
 <ul>
