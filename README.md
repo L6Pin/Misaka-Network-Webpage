@@ -4,7 +4,7 @@
 wallet application and desired to represent his work in a way that would honor one of his favorite anime character.</p>
 <br/>
 <img src="md_image/1.png">
-<p style="text-align: center"><i>Landing Page</i></p>
+<br>
 <h2>Design</h2>
 <p>The design is inspired by the current trend of minimalism. The color white was used (by default) to fill out empty space with the main colors being:</p>
 <ul>
